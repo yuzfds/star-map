@@ -29,6 +29,8 @@
   },
   "dependencies": {
     "cesium": "^1.72.0",
-    "cross-env": "^7.0.2"
+    "cross-env": "^7.0.2",
+    "ol": "^6.4.3",
+    "uuid": "^8.3.1"
   }
 }
